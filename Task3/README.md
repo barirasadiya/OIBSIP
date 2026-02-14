@@ -1,11 +1,17 @@
 Task 3 – Weather App
 
-A Python Tkinter GUI app that fetches real-time weather data using OpenWeatherMap API.
+Objective:
+Build a Python GUI application that fetches and displays real-time weather information for a city.
 
-Features:
-- Enter city name
-- Shows temperature, humidity, wind speed, and condition
+Steps Performed:
+- Designed GUI using Tkinter
+- Took city name input from user
+- Connected to weather API using requests module
+- Retrieved weather data
+- Displayed temperature, humidity, and condition
 
-Run:
-pip install requests
-python weather.py
+Tools Used:
+Python, Tkinter, Requests, VS Code
+
+Outcome:
+A working weather application that shows live weather details based on user input.
