@@ -11,9 +11,19 @@ Features:
 - Option to exclude specific characters
 - Copy generated password to clipboard
 - Simple and user-friendly GUI
+
+Steps Performed:
+- Designed GUI using Tkinter
+- Added option to select password length
+- Included checkboxes for character types
+- Generated random password using Python logic
+- Displayed generated password
   
-Tech Used
+Tech Used:
 Python, Tkinter
+
+Outcome:
+A functional password generator that creates strong, customizable passwords instantly.
 
 Run:
 python password.py
